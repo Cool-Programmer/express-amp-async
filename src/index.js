@@ -11,7 +11,7 @@ function expressAMP ({
           return next(err)
         }
 
-        const htmlAMP = ampify(html, { cwd: staticsPath })
+        const htmlAMP = await ampify(html, { cwd: staticsPath })
         res.send(htmlAMP)
       }
     }
