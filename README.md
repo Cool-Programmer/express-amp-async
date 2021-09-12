@@ -1,10 +1,10 @@
-# express-amp
+# express-amp-async
 > :zap: Express middleware to convert website to Google AMP - ASYNC rendering. Fork from https://github.com/jlopezxs/express-amp
 
 ## Installation
 
 ```sh
-npm install --save express-amp
+npm install --save express-amp-async
 ```
 
 ## Preview
@@ -16,7 +16,7 @@ npm install --save express-amp
  */
 
 import express from 'express';
-import expressAMP from 'express-amp';
+import expressAMP from 'express-amp-async';
 
 const app = express();
 
@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
 // Using renderAMP method
 
 import express from 'express';
-import expressAMP from 'express-amp';
+import expressAMP from 'express-amp-async';
 
 const app = express();
 
