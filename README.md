@@ -1,5 +1,5 @@
 # express-amp
-> :zap: Express middleware to convert website to Google AMP
+> :zap: Express middleware to convert website to Google AMP - ASYNC rendering. Fork from https://github.com/jlopezxs/express-amp
 
 ## Installation
 
@@ -62,6 +62,5 @@ where:
 
 ## License
 
-MIT © [Jordi López](http://jlopezxs.github.io)
-
+MIT © [Mher Margaryan]
 This is a fork from [Jordi López](http://jlopezxs.github.io)
