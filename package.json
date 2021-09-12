@@ -1,20 +1,19 @@
 {
   "name": "express-amp-async",
   "version": "1.0.1",
-  "description": "Express middleware to convert website to Google AMP",
+  "description": "Express middleware to convert website to Google AMP - ASYNC",
   "license": "MIT",
   "main": "index.js",
   "author": {
-    "name": "Jordi López",
-    "email": "jlopezxs@gmail.com",
-    "url": "http://jlopezxs.github.io"
+    "name": "Mher Margaryan",
+    "email": "margaryan.mher.28@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlopezxs/express-amp.git"
+    "url": "git+https://github.com/Cool-Programmer/express-amp-async.git"
   },
   "bugs": {
-    "url": "https://github.com/jlopezxs/express-amp/issues"
+    "url": "https://github.com/Cool-Programmer/express-amp-async/issues"
   },
   "keywords": [
     "amp",
